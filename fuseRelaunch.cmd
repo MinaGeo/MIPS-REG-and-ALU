@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/HP/Desktop/mina/advanced programming/Phase1_Part1/po_isim_beh.exe" -prj "C:/Users/HP/Desktop/mina/advanced programming/Phase1_Part1/po_beh.prj" "work.po" 

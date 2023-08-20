@@ -1,0 +1,27 @@
+Running: D:\14.7\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o C:/Users/HP/Desktop/mina/advanced programming/Phase1_Part1/po_isim_beh.exe -prj C:/Users/HP/Desktop/mina/advanced programming/Phase1_Part1/po_beh.prj work.po 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 12
+Turning on mult-threading, number of parallel sub-compilation jobs: 24 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/HP/Desktop/mina/advanced programming/Phase1_Part1/reg.vhd" into library work
+Parsing VHDL file "C:/Users/HP/Desktop/mina/advanced programming/Phase1_Part1/MyPackage.vhd" into library work
+Parsing VHDL file "C:/Users/HP/Desktop/mina/advanced programming/Phase1_Part1/Mux.vhd" into library work
+Parsing VHDL file "C:/Users/HP/Desktop/mina/advanced programming/Phase1_Part1/Decoder.vhd" into library work
+Parsing VHDL file "C:/Users/HP/Desktop/mina/advanced programming/Phase1_Part1/RegisterFile.vhd" into library work
+Parsing VHDL file "C:/Users/HP/Desktop/mina/advanced programming/Phase1_Part1/po.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package mypackage
+Compiling architecture behavioral of entity Decoder [decoder_default]
+Compiling architecture behavioral of entity reg [reg_default]
+Compiling architecture behavioral of entity Mux [mux_default]
+Compiling architecture behavioral of entity RegisterFile [registerfile_default]
+Compiling architecture behavior of entity po
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 12 VHDL Units
+Built simulation executable C:/Users/HP/Desktop/mina/advanced programming/Phase1_Part1/po_isim_beh.exe
+Fuse Memory Usage: 31240 KB
+Fuse CPU Usage: 327 ms

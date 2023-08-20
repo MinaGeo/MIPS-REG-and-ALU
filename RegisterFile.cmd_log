@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/14.7/Phase1/RegisterFile.xst" -ofn "D:/14.7/Phase1/RegisterFile.syr" 
